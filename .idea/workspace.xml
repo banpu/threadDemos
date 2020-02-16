@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72bd14f1-457e-4b01-a71f-ef8371d638aa" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/executor/target/" />
+    <ignored path="$PROJECT_DIR$/JMMLockTools/target/" />
+    <ignored path="$PROJECT_DIR$/JMMLockTools/atomic-collections/target/" />
+    <ignored path="$PROJECT_DIR$/atomic-collections/target/" />
+    <ignored path="$PROJECT_DIR$/jvm-lock-tools/target/" />
+    <ignored path="$PROJECT_DIR$/timing-dcl/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DeadLockDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/lock/DeadLockDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SynchronizedObjectCodeBlock1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizedObjectCodeBlock1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SynchronizeStastic3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizeStastic3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="44" selection-start-line="44" selection-end-line="55" selection-end-column="114" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/lock/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SynchronizedYesAndNo6.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizedYesAndNo6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="49" column="1" selection-start-line="6" selection-start-column="35" selection-end-line="49" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyReentrantLock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/lock/MyReentrantLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReentrantLock01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/lock/ReentrantLock01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LockTests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/lock/LockTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScheduledThreadPoolExecutorTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/timing-dcl/src/main/java/cn/com/beyond/threadpool/ScheduledThreadPoolExecutorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="11" column="44" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SynchronizedException9.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizedException9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>reject</find>
+      <find>Thread.setDaem</find>
+      <find>ThreadPoolExecutor</find>
+      <find>runWorker(</find>
+      <find>addWorker</find>
+      <find>schedule(</find>
+      <find>scheduleA</find>
+      <find>System\.out\.println\(\&quot;线程1开始执行\&quot;\)\;\n            Thread\.sleep\(3000\)\;\n</find>
+      <find>System\.out\.println\(\&quot;线程1开始执行\&quot;\)\;\n            Thread\.sleep\(3000\)\;</find>
+      <find>MonitorThreadPoolUtil</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/cn/com/beyond/jiagouedu/sync/Sync04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/com/beyond/jiagouedu/sync/Sync05.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/com/beyond/jiagouedu/volatiles/Volatile01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/com/beyond/thread/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/com/beyond/executor01/thread/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/com/beyond/jiagouedu02/volatiles/KafkaStart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/com/beyond/jiagouedu02/semaphore/场景/SearchServer.java" />
+        <option value="$PROJECT_DIR$/executor/src/main/java/cn/com/beyond/threadpool/MonitorThreadPoolUtil.java" />
+        <option value="$PROJECT_DIR$/executor/src/main/java/cn/com/beyond/thread/ThreadSort.java" />
+        <option value="$PROJECT_DIR$/executor/src/main/java/cn/com/beyond/thread/CallableDemo.java" />
+        <option value="$PROJECT_DIR$/executor/src/main/java/cn/com/beyond/thread/ThreadWaitDemo.java" />
+        <option value="$PROJECT_DIR$/executor/src/main/java/cn/com/beyond/thread/JoinThread.java" />
+        <option value="$PROJECT_DIR$/executor/src/main/java/cn/com/beyond/thread/Test.java" />
+        <option value="$PROJECT_DIR$/executor/src/main/java/cn/com/beyond/thread/ThreadDemo.java" />
+        <option value="$PROJECT_DIR$/executor/src/main/java/cn/com/beyond/threadpool/ThreadPoolTest.java" />
+        <option value="$PROJECT_DIR$/executor/src/main/java/cn/com/beyond/threadpool/SchedulePoolTest.java" />
+        <option value="$PROJECT_DIR$/JMMLockTools/src/main/java/cn/com/beyond/volatiles/Volatile01.java" />
+        <option value="$PROJECT_DIR$/JMMLockTools/src/main/java/cn/com/beyond/volatiles/VolatileDemo.java" />
+        <option value="$PROJECT_DIR$/JMMLockTools/src/main/java/cn/com/beyond/volatiles/VolatileAtoDemo.java" />
+        <option value="$PROJECT_DIR$/JMMLockTools/src/main/java/cn/com/beyond/lock/ReentrantLockDemo.java" />
+        <option value="$PROJECT_DIR$/JMMLockTools/src/main/java/cn/com/beyond/lock/MyReentrantLock.java" />
+        <option value="$PROJECT_DIR$/JMMLockTools/pom.xml" />
+        <option value="$PROJECT_DIR$/atomic-collections/pom.xml" />
+        <option value="$PROJECT_DIR$/jvm-lock-tools/pom.xml" />
+        <option value="$PROJECT_DIR$/atomic-collections/src/main/java/cn/com/beyond/atomic/ABA/AtomicIntegerABAExample.java" />
+        <option value="$PROJECT_DIR$/atomic-collections/src/main/java/cn/com/beyond/atomic/Sync02.java" />
+        <option value="$PROJECT_DIR$/atomic-collections/src/main/java/cn/com/beyond/atomic/filed/AtomicIntegerFieldUpdater.java" />
+        <option value="$PROJECT_DIR$/atomic-collections/src/main/java/cn/com/beyond/atomic/SyncAtomic.java" />
+        <option value="$PROJECT_DIR$/atomic-collections/src/main/java/cn/com/beyond/atomic/order/OrdersOrdersInteger.java" />
+        <option value="$PROJECT_DIR$/atomic-collections/src/main/java/cn/com/beyond/atomic/ABA/AtomicStampesABAExample.java" />
+        <option value="$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/volatiles/VolidateVisiableTest.java" />
+        <option value="$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/volatiles/VolatileVisiableTest.java" />
+        <option value="$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/volatiles/VoliadteAtomicTest.java" />
+        <option value="$PROJECT_DIR$/timing-dcl/src/main/java/cn/com/beyond/threadpool/ScheduledThreadPoolExecutorTest.java" />
+        <option value="$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/lock/DeadLockDemo.java" />
+        <option value="$PROJECT_DIR$/atomic-collections/src/main/java/cn/com/beyond/atomic/AtomicIntegertest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/executor/pom.xml" />
+        <option value="$PROJECT_DIR$/executor/src/main/java/cn/com/beyond/jsoup/JsoupTest.java" />
+        <option value="$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/Sync01.java" />
+        <option value="$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/lock/Test.java" />
+        <option value="$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizedDemo.java" />
+        <option value="$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizedObjectCodeBlock.java" />
+        <option value="$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizedObjectCodeBlock2.java" />
+        <option value="$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizedObjecClass5.java" />
+        <option value="$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizedObjectClass5.java" />
+        <option value="$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizedObjectCodeBlock1.java" />
+        <option value="$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizedYesAndNo6.java" />
+        <option value="$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizedException9.java" />
+        <option value="$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizeStastic3.java" />
+        <option value="$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/lock/LockTests.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="threadDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="threadDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="292" />
+    <option name="y" value="59" />
+    <option name="width" value="1052" />
+    <option name="height" value="673" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="threadDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="threadDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="threadDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="threadDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="timing-dcl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="threadDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="threadDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="timing-dcl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="threadDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="threadDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="timing-dcl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="threadDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="threadDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="timing-dcl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="threadDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="threadDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="timing-dcl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="threadDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="threadDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="timing-dcl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="threadDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="threadDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="timing-dcl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="beyond" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="threadDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="threadDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="timing-dcl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="beyond" type="462c0819:PsiDirectoryNode" />
+              <item name="threadpool" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="executor&#9;PSI&#9;JAVA://java.util.concurrent.Executor&#10;ThreadPoolEx&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;java.util.concurrent.atomic&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicBoolean&#10;ScheduledExecutorService&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/ScheduledExecutorService.java&#10;ScheduledThreadPoolExecutor &#9;PSI&#9;JAVA://java.util.concurrent.ScheduledThreadPoolExecutor&#10;Abstract&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/AbstractExecutorService.java&#10;ExecutorService&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/ExecutorService.java&#10; java.util.concurrent.ThreadPoolExecutor&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;ThreadPoolExecutor&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/brains/bsm" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\threadDemo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\threadDemo\atomic-collections\src\main\java\cn\com\beyond" />
+      <recent name="D:\work\threadDemo\src\main\java\cn\com\beyond" />
+      <recent name="D:\work\threadDemo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SynchronizedException9">
+    <configuration name="SynchronizeStastic3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.com.beyond.sync.SynchronizeStastic3" />
+      <module name="jvm-lock-tools" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.com.beyond.sync.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SynchronizedException9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.com.beyond.sync.SynchronizedException9" />
+      <module name="jvm-lock-tools" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.com.beyond.sync.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SynchronizedObjectClass5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.com.beyond.sync.SynchronizedObjectClass5" />
+      <module name="jvm-lock-tools" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.com.beyond.sync.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SynchronizedObjectCodeBlock1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.com.beyond.sync.SynchronizedObjectCodeBlock1" />
+      <module name="jvm-lock-tools" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.com.beyond.sync.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SynchronizedYesAndNo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.com.beyond.sync.SynchronizedYesAndNo6" />
+      <module name="jvm-lock-tools" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.com.beyond.sync.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SynchronizedObjectCodeBlock1" />
+      <item itemvalue="Application.SynchronizeStastic3" />
+      <item itemvalue="Application.SynchronizedObjectClass5" />
+      <item itemvalue="Application.SynchronizedYesAndNo6" />
+      <item itemvalue="Application.SynchronizedException9" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SynchronizedException9" />
+        <item itemvalue="Application.SynchronizedYesAndNo6" />
+        <item itemvalue="Application.SynchronizedObjectCodeBlock1" />
+        <item itemvalue="Application.SynchronizedObjectClass5" />
+        <item itemvalue="Application.SynchronizeStastic3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72bd14f1-457e-4b01-a71f-ef8371d638aa" name="Default" comment="" />
+      <created>1581082440901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581082440901</updated>
+      <workItem from="1581082443283" duration="145000" />
+      <workItem from="1581082701702" duration="2192000" />
+      <workItem from="1581124939731" duration="6536000" />
+      <workItem from="1581212393709" duration="8171000" />
+      <workItem from="1581301883917" duration="783000" />
+      <workItem from="1581391876298" duration="5102000" />
+      <workItem from="1581487796331" duration="10982000" />
+      <workItem from="1581556244509" duration="16682000" />
+      <workItem from="1581646056401" duration="9143000" />
+      <workItem from="1581732748606" duration="4521000" />
+      <workItem from="1581819198884" duration="9498000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73755000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32840723" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50075644" side_tool="true" weight="0.45648605" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.3546798" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32840723" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.1904762" visible="true" weight="0.27609682" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+      <window_info id="Structure" order="1" sideWeight="0.9277504" side_tool="true" weight="0.2647504" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39901477" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35139573" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32840723" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32840723" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32980332" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizedObjectCodeBlock1.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-defaults>
+        <breakpoint suspend="THREAD" type="java-line" />
+      </breakpoints-defaults>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>this.getState()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/lock/ReentrantLock03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/lock/ReentrantLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/semaphore/Semaphore01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomic-collections/src/main/java/cn/com/beyond/atomic/filed/AtomicIntegerFieldUpdater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomic-collections/src/main/java/cn/com/beyond/atomic/SyncAtomic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomic-collections/src/main/java/cn/com/beyond/atomic/order/OrdersOrdersInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/atomic/AtomicBoolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/AbstractQueuedLongSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomic-collections/src/main/java/cn/com/beyond/atomic/ABA/AtomicIntegerABAExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="18" selection-start-line="18" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomic-collections/src/main/java/cn/com/beyond/atomic/ABA/AtomicStampesABAExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomic-collections/src/main/java/cn/com/beyond/map/hashmap/TestHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomic-collections/src/main/java/cn/com/beyond/map/hashmap/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2557">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomic-collections/src/main/java/cn/com/beyond/map/HashMapExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9082">
+          <caret line="478" column="9" selection-start-line="478" selection-start-column="9" selection-end-line="478" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/executor/src/main/java/cn/com/beyond/thread/ThreadState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/executor/src/main/java/cn/com/beyond/threadpool/MonitorThreadPoolUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/semaphore/场景/SearchServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/semaphore/场景/SemaphoreController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/volatiles/VolatileAtoDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/volatiles/VolatileVisiableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/volatiles/VoliadteAtomicTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.concurrent.Executor">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.Executor</OriginalElement>
+          <nodes>
+            <node x="716.375" y="158.0">java.util.concurrent.AbstractExecutorService</node>
+            <node x="147.00972222222208" y="237.0">java.util.concurrent.ThreadPoolExecutor</node>
+            <node x="165.0" y="316.0">sun.awt.shell.Win32ShellFolderManager2.ComInvoker</node>
+            <node x="1108.0" y="0.0">java.util.concurrent.Executor</node>
+            <node x="711.875" y="237.0">java.util.concurrent.Executors.DelegatedExecutorService</node>
+            <node x="1089.0" y="79.0">sun.net.httpserver.ServerImpl.DefaultExecutor</node>
+            <node x="0.0" y="316.0">com.sun.javafx.tk.quantum.QuantumRenderer</node>
+            <node x="1387.0" y="79.0">java.util.concurrent.CompletableFuture.ThreadPerTaskExecutor</node>
+            <node x="295.99999999999994" y="316.0">java.util.concurrent.ScheduledThreadPoolExecutor</node>
+            <node x="1241.0" y="79.0">com.sun.jmx.remote.internal.ClientNotifForwarder.LinearExecutor</node>
+            <node x="915.875" y="237.0">java.util.concurrent.ForkJoinPool</node>
+            <node x="846.0" y="79.0">sun.nio.ch.AsynchronousChannelGroupImpl</node>
+            <node x="425.74999999999994" y="237.0">java.util.concurrent.ScheduledExecutorService</node>
+            <node x="922.0" y="158.0">sun.nio.ch.Iocp</node>
+            <node x="784.0" y="316.0">java.util.concurrent.Executors.FinalizableDelegatedExecutorService</node>
+            <node x="612.875" y="79.0">java.util.concurrent.ExecutorService</node>
+            <node x="525.0" y="316.0">java.util.concurrent.Executors.DelegatedScheduledExecutorService</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.concurrent.AbstractExecutorService" target="java.util.concurrent.ExecutorService">
+              <point x="0.0" y="-14.5" />
+              <point x="803.875" y="133.0" />
+              <point x="711.125" y="133.0" />
+              <point x="32.75" y="14.5" />
+            </edge>
+            <edge source="java.util.concurrent.Executors.DelegatedScheduledExecutorService" target="java.util.concurrent.Executors.DelegatedExecutorService">
+              <point x="59.75" y="-14.5" />
+              <point x="704.25" y="291.0" />
+              <point x="757.875" y="291.0" />
+              <point x="-46.0" y="14.5" />
+            </edge>
+            <edge source="java.util.concurrent.ForkJoinPool" target="java.util.concurrent.AbstractExecutorService">
+              <point x="0.0" y="-14.5" />
+              <point x="973.875" y="217.0" />
+              <point x="862.2083333333333" y="217.0" />
+              <point x="58.33333333333337" y="14.5" />
+            </edge>
+            <edge source="sun.net.httpserver.ServerImpl.DefaultExecutor" target="java.util.concurrent.Executor">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.concurrent.ExecutorService" target="java.util.concurrent.Executor">
+              <point x="0.0" y="-14.5" />
+              <point x="678.375" y="49.0" />
+              <point x="1117.3999999999999" y="49.0" />
+              <point x="-37.60000000000002" y="14.5" />
+            </edge>
+            <edge source="java.util.concurrent.ScheduledThreadPoolExecutor" target="java.util.concurrent.ScheduledExecutorService">
+              <point x="52.25" y="-14.5" />
+              <point x="452.74999999999994" y="291.0" />
+              <point x="472.24999999999994" y="291.0" />
+              <point x="-46.5" y="14.5" />
+            </edge>
+            <edge source="java.util.concurrent.Executors.FinalizableDelegatedExecutorService" target="java.util.concurrent.Executors.DelegatedExecutorService">
+              <point x="0.0" y="-14.5" />
+              <point x="903.5" y="291.0" />
+              <point x="849.875" y="291.0" />
+              <point x="46.0" y="14.5" />
+            </edge>
+            <edge source="sun.awt.shell.Win32ShellFolderManager2.ComInvoker" target="java.util.concurrent.ThreadPoolExecutor">
+              <point x="0.0" y="-14.5" />
+              <point x="220.5" y="291.0" />
+              <point x="224.00972222222208" y="291.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.concurrent.ScheduledExecutorService" target="java.util.concurrent.ExecutorService">
+              <point x="0.0" y="-14.5" />
+              <point x="518.75" y="207.0" />
+              <point x="462.89861111111105" y="207.0" />
+              <point x="462.89861111111105" y="133.0" />
+              <point x="645.625" y="133.0" />
+              <point x="-32.75" y="14.5" />
+            </edge>
+            <edge source="sun.nio.ch.AsynchronousChannelGroupImpl" target="java.util.concurrent.Executor">
+              <point x="0.0" y="-14.5" />
+              <point x="957.5" y="59.0" />
+              <point x="1136.2" y="59.0" />
+              <point x="-18.799999999999955" y="14.5" />
+            </edge>
+            <edge source="java.util.concurrent.CompletableFuture.ThreadPerTaskExecutor" target="java.util.concurrent.Executor">
+              <point x="0.0" y="-14.5" />
+              <point x="1472.0" y="49.0" />
+              <point x="1192.6" y="49.0" />
+              <point x="37.60000000000002" y="14.5" />
+            </edge>
+            <edge source="com.sun.jmx.remote.internal.ClientNotifForwarder.LinearExecutor" target="java.util.concurrent.Executor">
+              <point x="0.0" y="-14.5" />
+              <point x="1304.0" y="59.0" />
+              <point x="1173.8" y="59.0" />
+              <point x="18.799999999999955" y="14.5" />
+            </edge>
+            <edge source="java.util.concurrent.ScheduledThreadPoolExecutor" target="java.util.concurrent.ThreadPoolExecutor">
+              <point x="-52.25" y="-14.5" />
+              <point x="348.24999999999994" y="291.0" />
+              <point x="275.34305555555545" y="291.0" />
+              <point x="51.33333333333337" y="14.5" />
+            </edge>
+            <edge source="java.util.concurrent.Executors.DelegatedExecutorService" target="java.util.concurrent.AbstractExecutorService">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="sun.nio.ch.Iocp" target="sun.nio.ch.AsynchronousChannelGroupImpl">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.sun.javafx.tk.quantum.QuantumRenderer" target="java.util.concurrent.ThreadPoolExecutor">
+              <point x="0.0" y="-14.5" />
+              <point x="72.5" y="291.0" />
+              <point x="172.6763888888887" y="291.0" />
+              <point x="-51.33333333333337" y="14.5" />
+            </edge>
+            <edge source="java.util.concurrent.Executors.DelegatedScheduledExecutorService" target="java.util.concurrent.ScheduledExecutorService">
+              <point x="-59.75" y="-14.5" />
+              <point x="584.75" y="291.0" />
+              <point x="565.25" y="291.0" />
+              <point x="46.5" y="14.5" />
+            </edge>
+            <edge source="java.util.concurrent.ThreadPoolExecutor" target="java.util.concurrent.AbstractExecutorService">
+              <point x="0.0" y="-14.5" />
+              <point x="224.00972222222208" y="217.0" />
+              <point x="745.5416666666665" y="217.0" />
+              <point x="-58.33333333333337" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="661.0" y="101.0" />
+          <SelectedNodes>
+            <node>java.util.concurrent.ThreadPoolExecutor</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="127" column="21" selection-start-line="127" selection-start-column="17" selection-end-line="127" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="120" column="20" selection-start-line="120" selection-start-column="13" selection-end-line="120" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/ScheduledExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="159" column="39" selection-start-line="159" selection-start-column="39" selection-end-line="159" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="318" column="13" selection-start-line="318" selection-start-column="13" selection-end-line="318" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomic-collections/src/main/java/cn/com/beyond/atomic/AtomicIntegertest.java" />
+    <entry file="file://$PROJECT_DIR$/executor/src/main/java/cn/com/beyond/jsoup/JsoupTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomic-collections/src/main/java/cn/com/beyond/atomic/AtomicBooleanExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/Sync01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/Sync02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/plugin.jar!/sun/plugin/dom/css/Counter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/lock/Test.java" />
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/util/TlUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/lock/ReentrantLock04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/executor/src/main/java/cn/com/beyond/thread/ThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-284">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="747" selection-start-line="747" selection-end-line="747" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizedDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizedObjectCodeBlock2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizedObjectClass5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizedObjectCodeBlock1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizedYesAndNo6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="49" column="1" selection-start-line="6" selection-start-column="35" selection-end-line="49" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizedException9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/sync/SynchronizeStastic3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="44" selection-start-line="44" selection-end-line="55" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/lock/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/lock/DeadLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/lock/MyReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/lock/ReentrantLock01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-lock-tools/src/main/java/cn/com/beyond/lock/LockTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timing-dcl/src/main/java/cn/com/beyond/threadpool/ScheduledThreadPoolExecutorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>timing-dcl</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.slf4j:slf4j-simple:1.7.25</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
